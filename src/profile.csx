@@ -38,6 +38,7 @@ public string ls
 
 public string iexx;
 
+// reimplement the iex alias from PowerShell
 public string iex {
   get{
     iexx = "foo";
