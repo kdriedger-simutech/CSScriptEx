@@ -25,3 +25,22 @@ public string pwd
 {
   get { return System.Environment.CurrentDirectory; }
 }
+
+public string ls
+{
+  get
+  {
+     var a = string.Join("\n", System.IO.Directory.GetFiles(System.Environment.CurrentDirectory) );
+     System.Console.WriteLine(a);
+     return string.Empty;
+  }
+}
+
+public string iexx;
+
+public string iex {
+  get{
+    iexx = "foo";
+    return "yup";
+  }
+}
