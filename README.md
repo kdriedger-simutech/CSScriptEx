@@ -1,6 +1,9 @@
 # CSScriptEx
 Provides common command line commands for the C# scripting environment.
 
+Code from the article:
+https://msdn.microsoft.com/en-us/magazine/mt614271.aspx
+
 Example usage:
 
 From the command line:
