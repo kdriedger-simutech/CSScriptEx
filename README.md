@@ -5,7 +5,7 @@ Example usage:
 
 From the command line:
 ======================
-
+```
 D:\code\cscripts\CSScriptEx\src>csi
 Microsoft (R) Visual C# Interactive Compiler version 1.3.1.60616
 Copyright (C) Microsoft Corporation. All rights reserved.
@@ -48,3 +48,4 @@ by the fake Dr. Seuss
 -------------
 >
 
+```
